@@ -1,0 +1,1 @@
+# Nividia_Amd_7L
