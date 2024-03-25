@@ -3,7 +3,7 @@ cd /
 cls
 @cecho off
 title "Force_7L"
-mod con: lines=4 cols=20
+mode con: lines=4 cols=20
 
 @set "nividia=516412516341"
 @set "amd=516432178914"
