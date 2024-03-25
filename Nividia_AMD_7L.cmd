@@ -8,7 +8,7 @@ mod con: lines=4 cols=20
 @set "nividia=516412516341"
 @set "amd=516432178914"
 
-cecho {06}1=nividia{/h}{02}2=AMD{04}
+cecho {06}1=nividia{\n}{02}2=AMD{04}
 set /a m=choose;
 
 if (%m%=1) & goto nividia;
